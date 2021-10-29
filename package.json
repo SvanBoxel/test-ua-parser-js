@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "ua-parser-js": "0.7.29"
+    "ua-parser-js": "0.7.30"
   },
   "devDependencies": {},
   "scripts": {
