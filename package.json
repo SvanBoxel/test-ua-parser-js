@@ -1,0 +1,23 @@
+{
+  "name": "test-ua-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ua-parser-js": "0.7.29"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvanBoxel/test-ua-parser-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvanBoxel/test-ua-parser-js/issues"
+  },
+  "homepage": "https://github.com/SvanBoxel/test-ua-parser-js#readme"
+}
